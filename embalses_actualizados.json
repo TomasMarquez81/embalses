@@ -1,0 +1,4002 @@
+[
+  {
+    "nombre": "Celemín",
+    "comunidad": "Guadalete-Barbate",
+    "capacidad_total": 45,
+    "capacidad_actual": 36,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "80.0%"
+  },
+  {
+    "nombre": "Arcos de la Frontera",
+    "comunidad": "Guadalete-Barbate",
+    "capacidad_total": 14,
+    "capacidad_actual": 14,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Barbate",
+    "comunidad": "Guadalete-Barbate",
+    "capacidad_total": 228,
+    "capacidad_actual": 123,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "53.9%"
+  },
+  {
+    "nombre": "Zahara-El Gastor",
+    "comunidad": "Guadalete-Barbate",
+    "capacidad_total": 223,
+    "capacidad_actual": 67,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "30.0%"
+  },
+  {
+    "nombre": "Bornos",
+    "comunidad": "Guadalete-Barbate",
+    "capacidad_total": 200,
+    "capacidad_actual": 163,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "81.5%"
+  },
+  {
+    "nombre": "Guadalcacín II",
+    "comunidad": "Guadalete-Barbate",
+    "capacidad_total": 800,
+    "capacidad_actual": 385,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "48.1%"
+  },
+  {
+    "nombre": "Hurones, Los",
+    "comunidad": "Guadalete-Barbate",
+    "capacidad_total": 135,
+    "capacidad_actual": 119,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "88.1%"
+  },
+  {
+    "nombre": "Almodóvar",
+    "comunidad": "Guadalete-Barbate",
+    "capacidad_total": 6,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "Portodemouros",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 297,
+    "capacidad_actual": 209,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "70.4%"
+  },
+  {
+    "nombre": "Villagudín",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 18,
+    "capacidad_actual": 17,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "94.4%"
+  },
+  {
+    "nombre": "Riocobo",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 6,
+    "capacidad_actual": 4,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "66.7%"
+  },
+  {
+    "nombre": "Sta Uxia",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 18,
+    "capacidad_actual": 13,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "72.2%"
+  },
+  {
+    "nombre": "Ribeira, A",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 33,
+    "capacidad_actual": 27,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "81.8%"
+  },
+  {
+    "nombre": "Eume",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 123,
+    "capacidad_actual": 113,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "91.9%"
+  },
+  {
+    "nombre": "Eiras",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 22,
+    "capacidad_actual": 22,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Fervenza",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 103,
+    "capacidad_actual": 98,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "95.1%"
+  },
+  {
+    "nombre": "Cecebre",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 22,
+    "capacidad_actual": 20,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.9%"
+  },
+  {
+    "nombre": "Forcadas, As",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 11,
+    "capacidad_actual": 10,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.9%"
+  },
+  {
+    "nombre": "Barrie de la Maza",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 31,
+    "capacidad_actual": 14,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "45.2%"
+  },
+  {
+    "nombre": "Corumbel Bajo",
+    "comunidad": "Tinto, Odiel y Piedras",
+    "capacidad_total": 19,
+    "capacidad_actual": 18,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "94.7%"
+  },
+  {
+    "nombre": "Los Machos",
+    "comunidad": "Tinto, Odiel y Piedras",
+    "capacidad_total": 12,
+    "capacidad_actual": 12,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Odiel",
+    "comunidad": "Tinto, Odiel y Piedras",
+    "capacidad_total": 8,
+    "capacidad_actual": 7,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "87.5%"
+  },
+  {
+    "nombre": "Olivargas",
+    "comunidad": "Tinto, Odiel y Piedras",
+    "capacidad_total": 29,
+    "capacidad_actual": 29,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Piedras",
+    "comunidad": "Tinto, Odiel y Piedras",
+    "capacidad_total": 60,
+    "capacidad_actual": 58,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "96.7%"
+  },
+  {
+    "nombre": "Sancho",
+    "comunidad": "Tinto, Odiel y Piedras",
+    "capacidad_total": 58,
+    "capacidad_actual": 48,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "82.8%"
+  },
+  {
+    "nombre": "Jarrama",
+    "comunidad": "Tinto, Odiel y Piedras",
+    "capacidad_total": 43,
+    "capacidad_actual": 39,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.7%"
+  },
+  {
+    "nombre": "Andévalo",
+    "comunidad": "Guadiana",
+    "capacidad_total": 634,
+    "capacidad_actual": 361,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "56.9%"
+  },
+  {
+    "nombre": "Gargáligas",
+    "comunidad": "Guadiana",
+    "capacidad_total": 21,
+    "capacidad_actual": 20,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "95.2%"
+  },
+  {
+    "nombre": "Sierra Brava",
+    "comunidad": "Guadiana",
+    "capacidad_total": 233,
+    "capacidad_actual": 230,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "98.7%"
+  },
+  {
+    "nombre": "Cubilar",
+    "comunidad": "Guadiana",
+    "capacidad_total": 6,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "La Cabezuela",
+    "comunidad": "Guadiana",
+    "capacidad_total": 43,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "11.6%"
+  },
+  {
+    "nombre": "Vega del Jabalón",
+    "comunidad": "Guadiana",
+    "capacidad_total": 34,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "17.6%"
+  },
+  {
+    "nombre": "Orellana",
+    "comunidad": "Guadiana",
+    "capacidad_total": 808,
+    "capacidad_actual": 702,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "86.9%"
+  },
+  {
+    "nombre": "Cijara",
+    "comunidad": "Guadiana",
+    "capacidad_total": 1505,
+    "capacidad_actual": 1190,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "79.1%"
+  },
+  {
+    "nombre": "Alange",
+    "comunidad": "Guadiana",
+    "capacidad_total": 852,
+    "capacidad_actual": 296,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "34.7%"
+  },
+  {
+    "nombre": "La Serena",
+    "comunidad": "Guadiana",
+    "capacidad_total": 3219,
+    "capacidad_actual": 2082,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "64.7%"
+  },
+  {
+    "nombre": "Pto. Vallehermoso",
+    "comunidad": "Guadiana",
+    "capacidad_total": 7,
+    "capacidad_actual": 7,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Zújar",
+    "comunidad": "Guadiana",
+    "capacidad_total": 302,
+    "capacidad_actual": 247,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "81.8%"
+  },
+  {
+    "nombre": "Ruecas",
+    "comunidad": "Guadiana",
+    "capacidad_total": 42,
+    "capacidad_actual": 42,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Aguijón, El",
+    "comunidad": "Guadiana",
+    "capacidad_total": 11,
+    "capacidad_actual": 11,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Los Molinos",
+    "comunidad": "Guadiana",
+    "capacidad_total": 34,
+    "capacidad_actual": 34,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "García de Sola",
+    "comunidad": "Guadiana",
+    "capacidad_total": 554,
+    "capacidad_actual": 475,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "85.7%"
+  },
+  {
+    "nombre": "Torre de Abrahán",
+    "comunidad": "Guadiana",
+    "capacidad_total": 183,
+    "capacidad_actual": 167,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "91.3%"
+  },
+  {
+    "nombre": "Cornalbo",
+    "comunidad": "Guadiana",
+    "capacidad_total": 3,
+    "capacidad_actual": 2,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "66.7%"
+  },
+  {
+    "nombre": "Peñarroya",
+    "comunidad": "Guadiana",
+    "capacidad_total": 51,
+    "capacidad_actual": 28,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "54.9%"
+  },
+  {
+    "nombre": "Montijo",
+    "comunidad": "Guadiana",
+    "capacidad_total": 11,
+    "capacidad_actual": 11,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Cancho del Fresno",
+    "comunidad": "Guadiana",
+    "capacidad_total": 15,
+    "capacidad_actual": 15,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Nogales",
+    "comunidad": "Guadiana",
+    "capacidad_total": 18,
+    "capacidad_actual": 15,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "Gasset",
+    "comunidad": "Guadiana",
+    "capacidad_total": 39,
+    "capacidad_actual": 36,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "92.3%"
+  },
+  {
+    "nombre": "El Vicario",
+    "comunidad": "Guadiana",
+    "capacidad_total": 32,
+    "capacidad_actual": 24,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "75.0%"
+  },
+  {
+    "nombre": "Valuengo",
+    "comunidad": "Guadiana",
+    "capacidad_total": 20,
+    "capacidad_actual": 19,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "95.0%"
+  },
+  {
+    "nombre": "Canchales",
+    "comunidad": "Guadiana",
+    "capacidad_total": 26,
+    "capacidad_actual": 26,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Boquerón",
+    "comunidad": "Guadiana",
+    "capacidad_total": 6,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "Brovales",
+    "comunidad": "Guadiana",
+    "capacidad_total": 7,
+    "capacidad_actual": 7,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Chanza",
+    "comunidad": "Guadiana",
+    "capacidad_total": 338,
+    "capacidad_actual": 322,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "95.3%"
+  },
+  {
+    "nombre": "Horno Tejero",
+    "comunidad": "Guadiana",
+    "capacidad_total": 24,
+    "capacidad_actual": 24,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Llerena",
+    "comunidad": "Guadiana",
+    "capacidad_total": 8,
+    "capacidad_actual": 8,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Piedra Aguda",
+    "comunidad": "Guadiana",
+    "capacidad_total": 16,
+    "capacidad_actual": 16,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Proserpina",
+    "comunidad": "Guadiana",
+    "capacidad_total": 5,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Tentudia",
+    "comunidad": "Guadiana",
+    "capacidad_total": 5,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Villar del Rey",
+    "comunidad": "Guadiana",
+    "capacidad_total": 131,
+    "capacidad_actual": 121,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "92.4%"
+  },
+  {
+    "nombre": "Yesa",
+    "comunidad": "Ebro",
+    "capacidad_total": 447,
+    "capacidad_actual": 418,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "93.5%"
+  },
+  {
+    "nombre": "Laverné",
+    "comunidad": "Ebro",
+    "capacidad_total": 38,
+    "capacidad_actual": 36,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "94.7%"
+  },
+  {
+    "nombre": "Loteta (La)",
+    "comunidad": "Ebro",
+    "capacidad_total": 104,
+    "capacidad_actual": 104,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Las Fitas",
+    "comunidad": "Ebro",
+    "capacidad_total": 9,
+    "capacidad_actual": 8,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "88.9%"
+  },
+  {
+    "nombre": "Sallente",
+    "comunidad": "Ebro",
+    "capacidad_total": 6,
+    "capacidad_actual": 3,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "50.0%"
+  },
+  {
+    "nombre": "Caspe",
+    "comunidad": "Ebro",
+    "capacidad_total": 82,
+    "capacidad_actual": 62,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "75.6%"
+  },
+  {
+    "nombre": "Ribarroja",
+    "comunidad": "Ebro",
+    "capacidad_total": 210,
+    "capacidad_actual": 199,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "94.8%"
+  },
+  {
+    "nombre": "Grado, El",
+    "comunidad": "Ebro",
+    "capacidad_total": 400,
+    "capacidad_actual": 394,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "98.5%"
+  },
+  {
+    "nombre": "Maidevera",
+    "comunidad": "Ebro",
+    "capacidad_total": 20,
+    "capacidad_actual": 16,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "80.0%"
+  },
+  {
+    "nombre": "Pajares",
+    "comunidad": "Ebro",
+    "capacidad_total": 35,
+    "capacidad_actual": 35,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Mediano",
+    "comunidad": "Ebro",
+    "capacidad_total": 435,
+    "capacidad_actual": 406,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "93.3%"
+  },
+  {
+    "nombre": "Rialb",
+    "comunidad": "Ebro",
+    "capacidad_total": 404,
+    "capacidad_actual": 398,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "98.5%"
+  },
+  {
+    "nombre": "Mequinenza",
+    "comunidad": "Ebro",
+    "capacidad_total": 1373,
+    "capacidad_actual": 1314,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "95.7%"
+  },
+  {
+    "nombre": "Ip",
+    "comunidad": "Ebro",
+    "capacidad_total": 5,
+    "capacidad_actual": 4,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "80.0%"
+  },
+  {
+    "nombre": "Val, El",
+    "comunidad": "Ebro",
+    "capacidad_total": 24,
+    "capacidad_actual": 23,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "95.8%"
+  },
+  {
+    "nombre": "Santa Ana",
+    "comunidad": "Ebro",
+    "capacidad_total": 237,
+    "capacidad_actual": 189,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "79.7%"
+  },
+  {
+    "nombre": "González Lacasa",
+    "comunidad": "Ebro",
+    "capacidad_total": 33,
+    "capacidad_actual": 32,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "97.0%"
+  },
+  {
+    "nombre": "San Bartolomé",
+    "comunidad": "Ebro",
+    "capacidad_total": 6,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "Canelles",
+    "comunidad": "Ebro",
+    "capacidad_total": 679,
+    "capacidad_actual": 544,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "80.1%"
+  },
+  {
+    "nombre": "Cavallers",
+    "comunidad": "Ebro",
+    "capacidad_total": 16,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "37.5%"
+  },
+  {
+    "nombre": "Oliana",
+    "comunidad": "Ebro",
+    "capacidad_total": 84,
+    "capacidad_actual": 74,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "88.1%"
+  },
+  {
+    "nombre": "Sistema Escarra",
+    "comunidad": "Ebro",
+    "capacidad_total": 5,
+    "capacidad_actual": 1,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "20.0%"
+  },
+  {
+    "nombre": "Tremp ó Talárn",
+    "comunidad": "Ebro",
+    "capacidad_total": 227,
+    "capacidad_actual": 227,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Santolea",
+    "comunidad": "Ebro",
+    "capacidad_total": 5,
+    "capacidad_actual": 4,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "80.0%"
+  },
+  {
+    "nombre": "Escales",
+    "comunidad": "Ebro",
+    "capacidad_total": 152,
+    "capacidad_actual": 139,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "91.4%"
+  },
+  {
+    "nombre": "Mansilla",
+    "comunidad": "Ebro",
+    "capacidad_total": 68,
+    "capacidad_actual": 63,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "92.6%"
+  },
+  {
+    "nombre": "Calanda",
+    "comunidad": "Ebro",
+    "capacidad_total": 54,
+    "capacidad_actual": 44,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "81.5%"
+  },
+  {
+    "nombre": "Camarasa",
+    "comunidad": "Ebro",
+    "capacidad_total": 163,
+    "capacidad_actual": 126,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "77.3%"
+  },
+  {
+    "nombre": "Ebro",
+    "comunidad": "Ebro",
+    "capacidad_total": 541,
+    "capacidad_actual": 408,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "75.4%"
+  },
+  {
+    "nombre": "Tranquera, La",
+    "comunidad": "Ebro",
+    "capacidad_total": 82,
+    "capacidad_actual": 79,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "96.3%"
+  },
+  {
+    "nombre": "Búbal",
+    "comunidad": "Ebro",
+    "capacidad_total": 63,
+    "capacidad_actual": 52,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "82.5%"
+  },
+  {
+    "nombre": "Urdiceto",
+    "comunidad": "Ebro",
+    "capacidad_total": 5,
+    "capacidad_actual": 2,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "40.0%"
+  },
+  {
+    "nombre": "Alcañiz (Estanca)",
+    "comunidad": "Ebro",
+    "capacidad_total": 7,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "85.7%"
+  },
+  {
+    "nombre": "Cueva Foradada",
+    "comunidad": "Ebro",
+    "capacidad_total": 22,
+    "capacidad_actual": 19,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "86.4%"
+  },
+  {
+    "nombre": "Vadiello",
+    "comunidad": "Ebro",
+    "capacidad_total": 16,
+    "capacidad_actual": 15,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "93.8%"
+  },
+  {
+    "nombre": "Baserca",
+    "comunidad": "Ebro",
+    "capacidad_total": 22,
+    "capacidad_actual": 10,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "45.5%"
+  },
+  {
+    "nombre": "Terradets",
+    "comunidad": "Ebro",
+    "capacidad_total": 33,
+    "capacidad_actual": 32,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "97.0%"
+  },
+  {
+    "nombre": "Lanuza",
+    "comunidad": "Ebro",
+    "capacidad_total": 17,
+    "capacidad_actual": 9,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "52.9%"
+  },
+  {
+    "nombre": "Peña, La",
+    "comunidad": "Ebro",
+    "capacidad_total": 15,
+    "capacidad_actual": 14,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "93.3%"
+  },
+  {
+    "nombre": "Pena",
+    "comunidad": "Ebro",
+    "capacidad_total": 18,
+    "capacidad_actual": 16,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "88.9%"
+  },
+  {
+    "nombre": "Puente de Santolea",
+    "comunidad": "Ebro",
+    "capacidad_total": 18,
+    "capacidad_actual": 16,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "88.9%"
+  },
+  {
+    "nombre": "Moneva",
+    "comunidad": "Ebro",
+    "capacidad_total": 8,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "75.0%"
+  },
+  {
+    "nombre": "Barasona",
+    "comunidad": "Ebro",
+    "capacidad_total": 85,
+    "capacidad_actual": 82,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "96.5%"
+  },
+  {
+    "nombre": "Torcas, Las",
+    "comunidad": "Ebro",
+    "capacidad_total": 7,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "85.7%"
+  },
+  {
+    "nombre": "Guiamets",
+    "comunidad": "Ebro",
+    "capacidad_total": 10,
+    "capacidad_actual": 2,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "20.0%"
+  },
+  {
+    "nombre": "Albiña",
+    "comunidad": "Ebro",
+    "capacidad_total": 5,
+    "capacidad_actual": 3,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "60.0%"
+  },
+  {
+    "nombre": "Alloz",
+    "comunidad": "Ebro",
+    "capacidad_total": 66,
+    "capacidad_actual": 58,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "87.9%"
+  },
+  {
+    "nombre": "Certescáns",
+    "comunidad": "Ebro",
+    "capacidad_total": 16,
+    "capacidad_actual": 14,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "87.5%"
+  },
+  {
+    "nombre": "Ciurana",
+    "comunidad": "Ebro",
+    "capacidad_total": 12,
+    "capacidad_actual": 3,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "25.0%"
+  },
+  {
+    "nombre": "Eúgui",
+    "comunidad": "Ebro",
+    "capacidad_total": 21,
+    "capacidad_actual": 18,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "85.7%"
+  },
+  {
+    "nombre": "Irabia",
+    "comunidad": "Ebro",
+    "capacidad_total": 14,
+    "capacidad_actual": 12,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "85.7%"
+  },
+  {
+    "nombre": "Llauset",
+    "comunidad": "Ebro",
+    "capacidad_total": 17,
+    "capacidad_actual": 14,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "82.4%"
+  },
+  {
+    "nombre": "Monteagudo",
+    "comunidad": "Ebro",
+    "capacidad_total": 10,
+    "capacidad_actual": 8,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "80.0%"
+  },
+  {
+    "nombre": "Sobrón",
+    "comunidad": "Ebro",
+    "capacidad_total": 20,
+    "capacidad_actual": 17,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "85.0%"
+  },
+  {
+    "nombre": "Sotonera",
+    "comunidad": "Ebro",
+    "capacidad_total": 189,
+    "capacidad_actual": 178,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "94.2%"
+  },
+  {
+    "nombre": "Santa María de Belsué",
+    "comunidad": "Ebro",
+    "capacidad_total": 14,
+    "capacidad_actual": 1,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "7.1%"
+  },
+  {
+    "nombre": "Ullivarri",
+    "comunidad": "Ebro",
+    "capacidad_total": 146,
+    "capacidad_actual": 132,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.4%"
+  },
+  {
+    "nombre": "Urrunaga",
+    "comunidad": "Ebro",
+    "capacidad_total": 72,
+    "capacidad_actual": 60,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "Itoiz",
+    "comunidad": "Ebro",
+    "capacidad_total": 417,
+    "capacidad_actual": 414,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "99.3%"
+  },
+  {
+    "nombre": "Urdalur",
+    "comunidad": "Ebro",
+    "capacidad_total": 6,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "Sistema Lagos Espot",
+    "comunidad": "Ebro",
+    "capacidad_total": 10,
+    "capacidad_actual": 9,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.0%"
+  },
+  {
+    "nombre": "San Lorenzo",
+    "comunidad": "Ebro",
+    "capacidad_total": 10,
+    "capacidad_actual": 9,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.0%"
+  },
+  {
+    "nombre": "Ibai-Eder",
+    "comunidad": "Cuencas Internas del País Vasco",
+    "capacidad_total": 11,
+    "capacidad_actual": 10,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.9%"
+  },
+  {
+    "nombre": "Urkulu",
+    "comunidad": "Cuencas Internas del País Vasco",
+    "capacidad_total": 10,
+    "capacidad_actual": 10,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Compuerto",
+    "comunidad": "Duero",
+    "capacidad_total": 95,
+    "capacidad_actual": 93,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "97.9%"
+  },
+  {
+    "nombre": "Almendra",
+    "comunidad": "Duero",
+    "capacidad_total": 2649,
+    "capacidad_actual": 2523,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "95.2%"
+  },
+  {
+    "nombre": "Villalcampo",
+    "comunidad": "Duero",
+    "capacidad_total": 66,
+    "capacidad_actual": 58,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "87.9%"
+  },
+  {
+    "nombre": "Ricobayo",
+    "comunidad": "Duero",
+    "capacidad_total": 1145,
+    "capacidad_actual": 992,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "86.6%"
+  },
+  {
+    "nombre": "Porma-(Juan Benet)",
+    "comunidad": "Duero",
+    "capacidad_total": 318,
+    "capacidad_actual": 304,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "95.6%"
+  },
+  {
+    "nombre": "Aldeadávila",
+    "comunidad": "Duero",
+    "capacidad_total": 114,
+    "capacidad_actual": 107,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "93.9%"
+  },
+  {
+    "nombre": "Saucelle",
+    "comunidad": "Duero",
+    "capacidad_total": 181,
+    "capacidad_actual": 176,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "97.2%"
+  },
+  {
+    "nombre": "Camporredondo",
+    "comunidad": "Duero",
+    "capacidad_total": 69,
+    "capacidad_actual": 64,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "92.8%"
+  },
+  {
+    "nombre": "Riaño",
+    "comunidad": "Duero",
+    "capacidad_total": 641,
+    "capacidad_actual": 609,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "95.0%"
+  },
+  {
+    "nombre": "Barrios de Luna",
+    "comunidad": "Duero",
+    "capacidad_total": 311,
+    "capacidad_actual": 301,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "96.8%"
+  },
+  {
+    "nombre": "San José",
+    "comunidad": "Duero",
+    "capacidad_total": 6,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Villameca",
+    "comunidad": "Duero",
+    "capacidad_total": 19,
+    "capacidad_actual": 17,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "89.5%"
+  },
+  {
+    "nombre": "Requejada",
+    "comunidad": "Duero",
+    "capacidad_total": 59,
+    "capacidad_actual": 40,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "67.8%"
+  },
+  {
+    "nombre": "Aguilar",
+    "comunidad": "Duero",
+    "capacidad_total": 247,
+    "capacidad_actual": 231,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "93.5%"
+  },
+  {
+    "nombre": "Cervera",
+    "comunidad": "Duero",
+    "capacidad_total": 10,
+    "capacidad_actual": 9,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.0%"
+  },
+  {
+    "nombre": "Agavanzal, Nª Sª de",
+    "comunidad": "Duero",
+    "capacidad_total": 36,
+    "capacidad_actual": 35,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "97.2%"
+  },
+  {
+    "nombre": "Águeda",
+    "comunidad": "Duero",
+    "capacidad_total": 15,
+    "capacidad_actual": 13,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "86.7%"
+  },
+  {
+    "nombre": "Arlanzón",
+    "comunidad": "Duero",
+    "capacidad_total": 22,
+    "capacidad_actual": 22,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Burgomillodo",
+    "comunidad": "Duero",
+    "capacidad_total": 14,
+    "capacidad_actual": 13,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "92.9%"
+  },
+  {
+    "nombre": "Casares de Arbas",
+    "comunidad": "Duero",
+    "capacidad_total": 37,
+    "capacidad_actual": 35,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "94.6%"
+  },
+  {
+    "nombre": "Castro de las Cogotas",
+    "comunidad": "Duero",
+    "capacidad_total": 58,
+    "capacidad_actual": 58,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Castro",
+    "comunidad": "Duero",
+    "capacidad_total": 27,
+    "capacidad_actual": 25,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "92.6%"
+  },
+  {
+    "nombre": "Cernadilla",
+    "comunidad": "Duero",
+    "capacidad_total": 255,
+    "capacidad_actual": 223,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "87.5%"
+  },
+  {
+    "nombre": "Cuerda del Pozo",
+    "comunidad": "Duero",
+    "capacidad_total": 249,
+    "capacidad_actual": 228,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "91.6%"
+  },
+  {
+    "nombre": "Linares del Arroyo",
+    "comunidad": "Duero",
+    "capacidad_total": 54,
+    "capacidad_actual": 50,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "92.6%"
+  },
+  {
+    "nombre": "Puente Porto",
+    "comunidad": "Duero",
+    "capacidad_total": 23,
+    "capacidad_actual": 11,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "47.8%"
+  },
+  {
+    "nombre": "Rábanos",
+    "comunidad": "Duero",
+    "capacidad_total": 8,
+    "capacidad_actual": 8,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Santa Teresa",
+    "comunidad": "Duero",
+    "capacidad_total": 496,
+    "capacidad_actual": 443,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "89.3%"
+  },
+  {
+    "nombre": "Serones",
+    "comunidad": "Duero",
+    "capacidad_total": 6,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Úzquiza",
+    "comunidad": "Duero",
+    "capacidad_total": 75,
+    "capacidad_actual": 65,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "86.7%"
+  },
+  {
+    "nombre": "Valparaíso",
+    "comunidad": "Duero",
+    "capacidad_total": 169,
+    "capacidad_actual": 150,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "88.8%"
+  },
+  {
+    "nombre": "Vencías, Las",
+    "comunidad": "Duero",
+    "capacidad_total": 5,
+    "capacidad_actual": 4,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "80.0%"
+  },
+  {
+    "nombre": "Villagonzalo",
+    "comunidad": "Duero",
+    "capacidad_total": 6,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Pontón Alto, El",
+    "comunidad": "Duero",
+    "capacidad_total": 7,
+    "capacidad_actual": 7,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Pías (San Agustín)",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 10,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "60.0%"
+  },
+  {
+    "nombre": "Belesar",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 655,
+    "capacidad_actual": 550,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "84.0%"
+  },
+  {
+    "nombre": "San. Estevo",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 213,
+    "capacidad_actual": 167,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "78.4%"
+  },
+  {
+    "nombre": "Portas, Las",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 536,
+    "capacidad_actual": 471,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "87.9%"
+  },
+  {
+    "nombre": "Conchas, Las",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 80,
+    "capacidad_actual": 72,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.0%"
+  },
+  {
+    "nombre": "Salas",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 87,
+    "capacidad_actual": 62,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "71.3%"
+  },
+  {
+    "nombre": "Cenza",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 40,
+    "capacidad_actual": 35,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "87.5%"
+  },
+  {
+    "nombre": "Frieira",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 44,
+    "capacidad_actual": 39,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "88.6%"
+  },
+  {
+    "nombre": "Castrelo",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 60,
+    "capacidad_actual": 51,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "85.0%"
+  },
+  {
+    "nombre": "Edrada-Mao",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 14,
+    "capacidad_actual": 11,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "78.6%"
+  },
+  {
+    "nombre": "Bárcena",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 341,
+    "capacidad_actual": 301,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "88.3%"
+  },
+  {
+    "nombre": "Peares, Os",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 182,
+    "capacidad_actual": 178,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "97.8%"
+  },
+  {
+    "nombre": "Velle",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 17,
+    "capacidad_actual": 13,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "76.5%"
+  },
+  {
+    "nombre": "Prada",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 122,
+    "capacidad_actual": 102,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "83.6%"
+  },
+  {
+    "nombre": "Chandrexa",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 61,
+    "capacidad_actual": 59,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "96.7%"
+  },
+  {
+    "nombre": "Vilasouto",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 21,
+    "capacidad_actual": 19,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.5%"
+  },
+  {
+    "nombre": "Albarellos",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 91,
+    "capacidad_actual": 43,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "47.3%"
+  },
+  {
+    "nombre": "San Sebastián",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 46,
+    "capacidad_actual": 26,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "56.5%"
+  },
+  {
+    "nombre": "Matalavilla",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 65,
+    "capacidad_actual": 54,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "83.1%"
+  },
+  {
+    "nombre": "Sequeiros",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 11,
+    "capacidad_actual": 10,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.9%"
+  },
+  {
+    "nombre": "Rozas, Las",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 28,
+    "capacidad_actual": 24,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "85.7%"
+  },
+  {
+    "nombre": "Montefurado",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 10,
+    "capacidad_actual": 10,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Peñarrubia",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 13,
+    "capacidad_actual": 10,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "76.9%"
+  },
+  {
+    "nombre": "San Pedro",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 6,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "Guístolas",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 5,
+    "capacidad_actual": 4,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "80.0%"
+  },
+  {
+    "nombre": "Bao",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 238,
+    "capacidad_actual": 218,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "91.6%"
+  },
+  {
+    "nombre": "Campañana, La",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 14,
+    "capacidad_actual": 8,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "57.1%"
+  },
+  {
+    "nombre": "San Martiño",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 10,
+    "capacidad_actual": 9,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.0%"
+  },
+  {
+    "nombre": "Santa Eulalia",
+    "comunidad": "Miño - Sil",
+    "capacidad_total": 10,
+    "capacidad_actual": 8,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "80.0%"
+  },
+  {
+    "nombre": "Vadomojón",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 146,
+    "capacidad_actual": 51,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "34.9%"
+  },
+  {
+    "nombre": "Yeguas",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 229,
+    "capacidad_actual": 228,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "99.6%"
+  },
+  {
+    "nombre": "Zufre",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 175,
+    "capacidad_actual": 175,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Siles",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 30,
+    "capacidad_actual": 30,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Huesna",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 135,
+    "capacidad_actual": 127,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "94.1%"
+  },
+  {
+    "nombre": "Fernandina, La",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 247,
+    "capacidad_actual": 150,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "60.7%"
+  },
+  {
+    "nombre": "Guadalén",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 163,
+    "capacidad_actual": 137,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "84.0%"
+  },
+  {
+    "nombre": "Guadalmena",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 345,
+    "capacidad_actual": 167,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "48.4%"
+  },
+  {
+    "nombre": "Agrio (Aznalcollar)",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 20,
+    "capacidad_actual": 20,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Jándula",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 325,
+    "capacidad_actual": 293,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.2%"
+  },
+  {
+    "nombre": "Torre del Águila",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 48,
+    "capacidad_actual": 47,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "97.9%"
+  },
+  {
+    "nombre": "Pintado, El",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 215,
+    "capacidad_actual": 212,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "98.6%"
+  },
+  {
+    "nombre": "Montoro",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 105,
+    "capacidad_actual": 105,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Puebla de Cazalla",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 63,
+    "capacidad_actual": 19,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "30.2%"
+  },
+  {
+    "nombre": "Rumblar",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 140,
+    "capacidad_actual": 116,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "82.9%"
+  },
+  {
+    "nombre": "Melonares, Los",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 186,
+    "capacidad_actual": 185,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "99.5%"
+  },
+  {
+    "nombre": "Aguascebas",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 6,
+    "capacidad_actual": 4,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "66.7%"
+  },
+  {
+    "nombre": "Gergal",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 35,
+    "capacidad_actual": 35,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Fresneda",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 19,
+    "capacidad_actual": 19,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Retortillo",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 61,
+    "capacidad_actual": 60,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "98.4%"
+  },
+  {
+    "nombre": "Bolera, La",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 54,
+    "capacidad_actual": 24,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "44.4%"
+  },
+  {
+    "nombre": "Tranco de Beas",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 506,
+    "capacidad_actual": 200,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "39.5%"
+  },
+  {
+    "nombre": "Víboras",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 17,
+    "capacidad_actual": 9,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "52.9%"
+  },
+  {
+    "nombre": "Quiebrajano",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 33,
+    "capacidad_actual": 13,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "39.4%"
+  },
+  {
+    "nombre": "Minilla, La",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 58,
+    "capacidad_actual": 48,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "82.8%"
+  },
+  {
+    "nombre": "Aracena",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 129,
+    "capacidad_actual": 126,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "97.7%"
+  },
+  {
+    "nombre": "Bembézar",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 328,
+    "capacidad_actual": 324,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "98.8%"
+  },
+  {
+    "nombre": "Bermejales",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 91,
+    "capacidad_actual": 42,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "46.2%"
+  },
+  {
+    "nombre": "Cala",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 59,
+    "capacidad_actual": 48,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "81.4%"
+  },
+  {
+    "nombre": "Canales",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 70,
+    "capacidad_actual": 43,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "61.4%"
+  },
+  {
+    "nombre": "Colomera",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 40,
+    "capacidad_actual": 9,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "22.5%"
+  },
+  {
+    "nombre": "Cubillas",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 14,
+    "capacidad_actual": 7,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "50.0%"
+  },
+  {
+    "nombre": "Francisco Abellán",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 58,
+    "capacidad_actual": 11,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "19.0%"
+  },
+  {
+    "nombre": "Giribaile",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 491,
+    "capacidad_actual": 140,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "28.5%"
+  },
+  {
+    "nombre": "Guadalmellato",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 147,
+    "capacidad_actual": 147,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Iznájar",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 920,
+    "capacidad_actual": 288,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "31.3%"
+  },
+  {
+    "nombre": "José Torán",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 101,
+    "capacidad_actual": 101,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Martín Gonzalo",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 20,
+    "capacidad_actual": 20,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Negratín",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 571,
+    "capacidad_actual": 184,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "32.2%"
+  },
+  {
+    "nombre": "El Portillo",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 31,
+    "capacidad_actual": 25,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "80.6%"
+  },
+  {
+    "nombre": "Puente Nuevo",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 281,
+    "capacidad_actual": 269,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "95.7%"
+  },
+  {
+    "nombre": "Quéntar",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 14,
+    "capacidad_actual": 12,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "85.7%"
+  },
+  {
+    "nombre": "San Rafael de Navallana",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 156,
+    "capacidad_actual": 153,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "98.1%"
+  },
+  {
+    "nombre": "San Clemente",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 117,
+    "capacidad_actual": 13,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "11.1%"
+  },
+  {
+    "nombre": "Sierra Boyera",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 39,
+    "capacidad_actual": 39,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Tous - La Ribera",
+    "comunidad": "Júcar",
+    "capacidad_total": 379,
+    "capacidad_actual": 201,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "53.0%"
+  },
+  {
+    "nombre": "La Toba",
+    "comunidad": "Júcar",
+    "capacidad_total": 10,
+    "capacidad_actual": 8,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "80.0%"
+  },
+  {
+    "nombre": "Arenós",
+    "comunidad": "Júcar",
+    "capacidad_total": 137,
+    "capacidad_actual": 66,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "48.2%"
+  },
+  {
+    "nombre": "Contreras",
+    "comunidad": "Júcar",
+    "capacidad_total": 361,
+    "capacidad_actual": 287,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "79.5%"
+  },
+  {
+    "nombre": "Cortes II",
+    "comunidad": "Júcar",
+    "capacidad_total": 118,
+    "capacidad_actual": 104,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "88.1%"
+  },
+  {
+    "nombre": "Bellús",
+    "comunidad": "Júcar",
+    "capacidad_total": 69,
+    "capacidad_actual": 24,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "34.8%"
+  },
+  {
+    "nombre": "Amadorio",
+    "comunidad": "Júcar",
+    "capacidad_total": 16,
+    "capacidad_actual": 3,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "18.8%"
+  },
+  {
+    "nombre": "Guadalest",
+    "comunidad": "Júcar",
+    "capacidad_total": 13,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "38.5%"
+  },
+  {
+    "nombre": "Escalona",
+    "comunidad": "Júcar",
+    "capacidad_total": 99,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "5.1%"
+  },
+  {
+    "nombre": "Benagéber",
+    "comunidad": "Júcar",
+    "capacidad_total": 221,
+    "capacidad_actual": 160,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "72.4%"
+  },
+  {
+    "nombre": "Forata",
+    "comunidad": "Júcar",
+    "capacidad_total": 37,
+    "capacidad_actual": 28,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "75.7%"
+  },
+  {
+    "nombre": "El Naranjero",
+    "comunidad": "Júcar",
+    "capacidad_total": 29,
+    "capacidad_actual": 21,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "72.4%"
+  },
+  {
+    "nombre": "María Cristina",
+    "comunidad": "Júcar",
+    "capacidad_total": 18,
+    "capacidad_actual": 16,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "88.9%"
+  },
+  {
+    "nombre": "Sichar",
+    "comunidad": "Júcar",
+    "capacidad_total": 49,
+    "capacidad_actual": 40,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "81.6%"
+  },
+  {
+    "nombre": "Ulldecona",
+    "comunidad": "Júcar",
+    "capacidad_total": 11,
+    "capacidad_actual": 9,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "81.8%"
+  },
+  {
+    "nombre": "Algar",
+    "comunidad": "Júcar",
+    "capacidad_total": 6,
+    "capacidad_actual": 1,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "16.7%"
+  },
+  {
+    "nombre": "Loriguilla",
+    "comunidad": "Júcar",
+    "capacidad_total": 73,
+    "capacidad_actual": 26,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "35.6%"
+  },
+  {
+    "nombre": "Regajo",
+    "comunidad": "Júcar",
+    "capacidad_total": 6,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "Beniarrés",
+    "comunidad": "Júcar",
+    "capacidad_total": 27,
+    "capacidad_actual": 10,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "37.0%"
+  },
+  {
+    "nombre": "Buseo",
+    "comunidad": "Júcar",
+    "capacidad_total": 8,
+    "capacidad_actual": 1,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "12.5%"
+  },
+  {
+    "nombre": "Alarcón",
+    "comunidad": "Júcar",
+    "capacidad_total": 1118,
+    "capacidad_actual": 767,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "68.6%"
+  },
+  {
+    "nombre": "Arquillo de San Blas",
+    "comunidad": "Júcar",
+    "capacidad_total": 21,
+    "capacidad_actual": 19,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.5%"
+  },
+  {
+    "nombre": "La Muela",
+    "comunidad": "Júcar",
+    "capacidad_total": 20,
+    "capacidad_actual": 13,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "65.0%"
+  },
+  {
+    "nombre": "Crevillente",
+    "comunidad": "Segura",
+    "capacidad_total": 13,
+    "capacidad_actual": 7,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "53.8%"
+  },
+  {
+    "nombre": "Taibilla",
+    "comunidad": "Segura",
+    "capacidad_total": 9,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "66.7%"
+  },
+  {
+    "nombre": "Fuensanta",
+    "comunidad": "Segura",
+    "capacidad_total": 210,
+    "capacidad_actual": 56,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "26.7%"
+  },
+  {
+    "nombre": "Valdeinfierno",
+    "comunidad": "Segura",
+    "capacidad_total": 12,
+    "capacidad_actual": 1,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "8.3%"
+  },
+  {
+    "nombre": "Camarillas",
+    "comunidad": "Segura",
+    "capacidad_total": 36,
+    "capacidad_actual": 16,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "44.4%"
+  },
+  {
+    "nombre": "La Pedrera",
+    "comunidad": "Segura",
+    "capacidad_total": 246,
+    "capacidad_actual": 73,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "29.7%"
+  },
+  {
+    "nombre": "Cenajo",
+    "comunidad": "Segura",
+    "capacidad_total": 437,
+    "capacidad_actual": 108,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "24.7%"
+  },
+  {
+    "nombre": "Puentes",
+    "comunidad": "Segura",
+    "capacidad_total": 26,
+    "capacidad_actual": 16,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "61.5%"
+  },
+  {
+    "nombre": "Talave",
+    "comunidad": "Segura",
+    "capacidad_total": 35,
+    "capacidad_actual": 17,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "48.6%"
+  },
+  {
+    "nombre": "Anchuricas",
+    "comunidad": "Segura",
+    "capacidad_total": 6,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Alfonso XIII",
+    "comunidad": "Segura",
+    "capacidad_total": 22,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "22.7%"
+  },
+  {
+    "nombre": "Argos",
+    "comunidad": "Segura",
+    "capacidad_total": 10,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "60.0%"
+  },
+  {
+    "nombre": "Cierva, La",
+    "comunidad": "Segura",
+    "capacidad_total": 7,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "71.4%"
+  },
+  {
+    "nombre": "Santomera",
+    "comunidad": "Segura",
+    "capacidad_total": 26,
+    "capacidad_actual": 3,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "11.5%"
+  },
+  {
+    "nombre": "Algeciras",
+    "comunidad": "Segura",
+    "capacidad_total": 45,
+    "capacidad_actual": 17,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "37.8%"
+  },
+  {
+    "nombre": "Baños",
+    "comunidad": "Tajo",
+    "capacidad_total": 41,
+    "capacidad_actual": 40,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "97.6%"
+  },
+  {
+    "nombre": "Beleña",
+    "comunidad": "Tajo",
+    "capacidad_total": 53,
+    "capacidad_actual": 46,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "86.8%"
+  },
+  {
+    "nombre": "Burguillo - Puente Nuevo",
+    "comunidad": "Tajo",
+    "capacidad_total": 201,
+    "capacidad_actual": 188,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "93.5%"
+  },
+  {
+    "nombre": "Jarosa, La",
+    "comunidad": "Tajo",
+    "capacidad_total": 7,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "85.7%"
+  },
+  {
+    "nombre": "Navacerrada",
+    "comunidad": "Tajo",
+    "capacidad_total": 11,
+    "capacidad_actual": 9,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "81.8%"
+  },
+  {
+    "nombre": "Navamuño",
+    "comunidad": "Tajo",
+    "capacidad_total": 14,
+    "capacidad_actual": 12,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "85.7%"
+  },
+  {
+    "nombre": "Pardo, El",
+    "comunidad": "Tajo",
+    "capacidad_total": 43,
+    "capacidad_actual": 30,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "69.8%"
+  },
+  {
+    "nombre": "Picadas",
+    "comunidad": "Tajo",
+    "capacidad_total": 15,
+    "capacidad_actual": 14,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "93.3%"
+  },
+  {
+    "nombre": "Pinilla",
+    "comunidad": "Tajo",
+    "capacidad_total": 38,
+    "capacidad_actual": 34,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "89.5%"
+  },
+  {
+    "nombre": "Puentes Viejas",
+    "comunidad": "Tajo",
+    "capacidad_total": 53,
+    "capacidad_actual": 48,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.6%"
+  },
+  {
+    "nombre": "Riosequillo",
+    "comunidad": "Tajo",
+    "capacidad_total": 50,
+    "capacidad_actual": 46,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "92.0%"
+  },
+  {
+    "nombre": "Salor",
+    "comunidad": "Tajo",
+    "capacidad_total": 14,
+    "capacidad_actual": 13,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "92.9%"
+  },
+  {
+    "nombre": "San Juan",
+    "comunidad": "Tajo",
+    "capacidad_total": 138,
+    "capacidad_actual": 120,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "87.0%"
+  },
+  {
+    "nombre": "Atance, El",
+    "comunidad": "Tajo",
+    "capacidad_total": 35,
+    "capacidad_actual": 29,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "82.9%"
+  },
+  {
+    "nombre": "Villar, El",
+    "comunidad": "Tajo",
+    "capacidad_total": 23,
+    "capacidad_actual": 22,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "95.7%"
+  },
+  {
+    "nombre": "Vellón,El-(Pedrezuela)",
+    "comunidad": "Tajo",
+    "capacidad_total": 41,
+    "capacidad_actual": 37,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.2%"
+  },
+  {
+    "nombre": "Valmayor",
+    "comunidad": "Tajo",
+    "capacidad_total": 124,
+    "capacidad_actual": 123,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "99.2%"
+  },
+  {
+    "nombre": "Valdeobispo",
+    "comunidad": "Tajo",
+    "capacidad_total": 53,
+    "capacidad_actual": 52,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "98.1%"
+  },
+  {
+    "nombre": "Valdecañas",
+    "comunidad": "Tajo",
+    "capacidad_total": 1446,
+    "capacidad_actual": 1417,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "98.0%"
+  },
+  {
+    "nombre": "Vado, El",
+    "comunidad": "Tajo",
+    "capacidad_total": 56,
+    "capacidad_actual": 48,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "85.7%"
+  },
+  {
+    "nombre": "Torrejón (Tajo - Tietar)",
+    "comunidad": "Tajo",
+    "capacidad_total": 188,
+    "capacidad_actual": 175,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "93.1%"
+  },
+  {
+    "nombre": "Torcón",
+    "comunidad": "Tajo",
+    "capacidad_total": 7,
+    "capacidad_actual": 3,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "42.9%"
+  },
+  {
+    "nombre": "Tajera, La",
+    "comunidad": "Tajo",
+    "capacidad_total": 64,
+    "capacidad_actual": 51,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "79.7%"
+  },
+  {
+    "nombre": "Santillana",
+    "comunidad": "Tajo",
+    "capacidad_total": 91,
+    "capacidad_actual": 86,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "94.5%"
+  },
+  {
+    "nombre": "Rosarito",
+    "comunidad": "Tajo",
+    "capacidad_total": 82,
+    "capacidad_actual": 81,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "98.8%"
+  },
+  {
+    "nombre": "Rivera de Gata",
+    "comunidad": "Tajo",
+    "capacidad_total": 49,
+    "capacidad_actual": 47,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "95.9%"
+  },
+  {
+    "nombre": "Portiña, La",
+    "comunidad": "Tajo",
+    "capacidad_total": 5,
+    "capacidad_actual": 2,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "40.0%"
+  },
+  {
+    "nombre": "Portaje",
+    "comunidad": "Tajo",
+    "capacidad_total": 23,
+    "capacidad_actual": 20,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "87.0%"
+  },
+  {
+    "nombre": "Pálmaces",
+    "comunidad": "Tajo",
+    "capacidad_total": 31,
+    "capacidad_actual": 24,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "77.4%"
+  },
+  {
+    "nombre": "Navalcán",
+    "comunidad": "Tajo",
+    "capacidad_total": 34,
+    "capacidad_actual": 32,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "94.1%"
+  },
+  {
+    "nombre": "Molino de Chincha",
+    "comunidad": "Tajo",
+    "capacidad_total": 6,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "Jerte - Plasencia",
+    "comunidad": "Tajo",
+    "capacidad_total": 59,
+    "capacidad_actual": 50,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "84.7%"
+  },
+  {
+    "nombre": "Guijo de Granadilla",
+    "comunidad": "Tajo",
+    "capacidad_total": 13,
+    "capacidad_actual": 11,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "84.6%"
+  },
+  {
+    "nombre": "Guajaraz",
+    "comunidad": "Tajo",
+    "capacidad_total": 18,
+    "capacidad_actual": 18,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Gabriel y Galán",
+    "comunidad": "Tajo",
+    "capacidad_total": 911,
+    "capacidad_actual": 813,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "89.2%"
+  },
+  {
+    "nombre": "Finisterre",
+    "comunidad": "Tajo",
+    "capacidad_total": 133,
+    "capacidad_actual": 14,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "10.5%"
+  },
+  {
+    "nombre": "Entrepeñas",
+    "comunidad": "Tajo",
+    "capacidad_total": 813,
+    "capacidad_actual": 672,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "82.7%"
+  },
+  {
+    "nombre": "Cáceres - Guadiloba",
+    "comunidad": "Tajo",
+    "capacidad_total": 20,
+    "capacidad_actual": 18,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.0%"
+  },
+  {
+    "nombre": "Cedillo",
+    "comunidad": "Tajo",
+    "capacidad_total": 260,
+    "capacidad_actual": 233,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "89.6%"
+  },
+  {
+    "nombre": "Cazalegas",
+    "comunidad": "Tajo",
+    "capacidad_total": 7,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "85.7%"
+  },
+  {
+    "nombre": "Castro, El",
+    "comunidad": "Tajo",
+    "capacidad_total": 8,
+    "capacidad_actual": 4,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "50.0%"
+  },
+  {
+    "nombre": "Castrejón",
+    "comunidad": "Tajo",
+    "capacidad_total": 44,
+    "capacidad_actual": 42,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "95.5%"
+  },
+  {
+    "nombre": "Buendía",
+    "comunidad": "Tajo",
+    "capacidad_total": 1705,
+    "capacidad_actual": 905,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "53.1%"
+  },
+  {
+    "nombre": "Borbollon",
+    "comunidad": "Tajo",
+    "capacidad_total": 88,
+    "capacidad_actual": 78,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "88.6%"
+  },
+  {
+    "nombre": "Bolarque",
+    "comunidad": "Tajo",
+    "capacidad_total": 31,
+    "capacidad_actual": 25,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "80.6%"
+  },
+  {
+    "nombre": "Azután",
+    "comunidad": "Tajo",
+    "capacidad_total": 113,
+    "capacidad_actual": 75,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "66.4%"
+  },
+  {
+    "nombre": "Atazar, El",
+    "comunidad": "Tajo",
+    "capacidad_total": 426,
+    "capacidad_actual": 423,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "99.3%"
+  },
+  {
+    "nombre": "Almoguera",
+    "comunidad": "Tajo",
+    "capacidad_total": 7,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "85.7%"
+  },
+  {
+    "nombre": "Alcántara",
+    "comunidad": "Tajo",
+    "capacidad_total": 3160,
+    "capacidad_actual": 3035,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "96.0%"
+  },
+  {
+    "nombre": "Alcorlo",
+    "comunidad": "Tajo",
+    "capacidad_total": 180,
+    "capacidad_actual": 161,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "89.4%"
+  },
+  {
+    "nombre": "Aceña",
+    "comunidad": "Tajo",
+    "capacidad_total": 24,
+    "capacidad_actual": 24,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Añarbe",
+    "comunidad": "Cantábrico Oriental",
+    "capacidad_total": 38,
+    "capacidad_actual": 32,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "84.2%"
+  },
+  {
+    "nombre": "Ibiur",
+    "comunidad": "Cantábrico Oriental",
+    "capacidad_total": 8,
+    "capacidad_actual": 8,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Ordunte",
+    "comunidad": "Cantábrico Oriental",
+    "capacidad_total": 22,
+    "capacidad_actual": 20,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.9%"
+  },
+  {
+    "nombre": "San Antón",
+    "comunidad": "Cantábrico Oriental",
+    "capacidad_total": 5,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Arbón",
+    "comunidad": "Cantábrico Occidental",
+    "capacidad_total": 41,
+    "capacidad_actual": 37,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.2%"
+  },
+  {
+    "nombre": "Salime",
+    "comunidad": "Cantábrico Occidental",
+    "capacidad_total": 238,
+    "capacidad_actual": 207,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "87.0%"
+  },
+  {
+    "nombre": "Alfilorios",
+    "comunidad": "Cantábrico Occidental",
+    "capacidad_total": 8,
+    "capacidad_actual": 7,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "87.5%"
+  },
+  {
+    "nombre": "Barca, La",
+    "comunidad": "Cantábrico Occidental",
+    "capacidad_total": 34,
+    "capacidad_actual": 32,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "94.1%"
+  },
+  {
+    "nombre": "Cohilla, La",
+    "comunidad": "Cantábrico Occidental",
+    "capacidad_total": 12,
+    "capacidad_actual": 9,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "75.0%"
+  },
+  {
+    "nombre": "Doiras",
+    "comunidad": "Cantábrico Occidental",
+    "capacidad_total": 97,
+    "capacidad_actual": 86,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "88.7%"
+  },
+  {
+    "nombre": "Tanes",
+    "comunidad": "Cantábrico Occidental",
+    "capacidad_total": 34,
+    "capacidad_actual": 32,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "94.1%"
+  },
+  {
+    "nombre": "Alsa - Mediajo",
+    "comunidad": "Cantábrico Occidental",
+    "capacidad_total": 22,
+    "capacidad_actual": 22,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Rioseco",
+    "comunidad": "Cantábrico Occidental",
+    "capacidad_total": 4,
+    "capacidad_actual": 3,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "75.0%"
+  },
+  {
+    "nombre": "Charco Redondo",
+    "comunidad": "Cuenca Mediterránea Andaluza",
+    "capacidad_total": 82,
+    "capacidad_actual": 58,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "70.7%"
+  },
+  {
+    "nombre": "Benínar",
+    "comunidad": "Cuenca Mediterránea Andaluza",
+    "capacidad_total": 63,
+    "capacidad_actual": 12,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "19.0%"
+  },
+  {
+    "nombre": "Cuevas de Almanzora",
+    "comunidad": "Cuenca Mediterránea Andaluza",
+    "capacidad_total": 161,
+    "capacidad_actual": 14,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "8.7%"
+  },
+  {
+    "nombre": "Guadarranque",
+    "comunidad": "Cuenca Mediterránea Andaluza",
+    "capacidad_total": 88,
+    "capacidad_actual": 80,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "90.9%"
+  },
+  {
+    "nombre": "Casasola",
+    "comunidad": "Cuenca Mediterránea Andaluza",
+    "capacidad_total": 22,
+    "capacidad_actual": 16,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "72.7%"
+  },
+  {
+    "nombre": "Béznar",
+    "comunidad": "Cuenca Mediterránea Andaluza",
+    "capacidad_total": 53,
+    "capacidad_actual": 44,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "83.0%"
+  },
+  {
+    "nombre": "Concepción",
+    "comunidad": "Cuenca Mediterránea Andaluza",
+    "capacidad_total": 62,
+    "capacidad_actual": 57,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "91.9%"
+  },
+  {
+    "nombre": "Conde Guadalhorce",
+    "comunidad": "Cuenca Mediterránea Andaluza",
+    "capacidad_total": 66,
+    "capacidad_actual": 65,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "98.5%"
+  },
+  {
+    "nombre": "Guadalhorce-Guadalteba",
+    "comunidad": "Cuenca Mediterránea Andaluza",
+    "capacidad_total": 279,
+    "capacidad_actual": 143,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "51.3%"
+  },
+  {
+    "nombre": "Limonero",
+    "comunidad": "Cuenca Mediterránea Andaluza",
+    "capacidad_total": 22,
+    "capacidad_actual": 15,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "68.2%"
+  },
+  {
+    "nombre": "Viñuela, La",
+    "comunidad": "Cuenca Mediterránea Andaluza",
+    "capacidad_total": 165,
+    "capacidad_actual": 83,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "50.3%"
+  },
+  {
+    "nombre": "Rules",
+    "comunidad": "Cuenca Mediterránea Andaluza",
+    "capacidad_total": 111,
+    "capacidad_actual": 88,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "79.3%"
+  },
+  {
+    "nombre": "La Baells",
+    "comunidad": "Cuencas Internas de Cataluña",
+    "capacidad_total": 109,
+    "capacidad_actual": 108,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "99.1%"
+  },
+  {
+    "nombre": "La Llosa del Cavall",
+    "comunidad": "Cuencas Internas de Cataluña",
+    "capacidad_total": 80,
+    "capacidad_actual": 57,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "71.3%"
+  },
+  {
+    "nombre": "Riudecanyes",
+    "comunidad": "Cuencas Internas de Cataluña",
+    "capacidad_total": 5,
+    "capacidad_actual": 3,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "60.0%"
+  },
+  {
+    "nombre": "Sau",
+    "comunidad": "Cuencas Internas de Cataluña",
+    "capacidad_total": 165,
+    "capacidad_actual": 126,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "76.4%"
+  },
+  {
+    "nombre": "Sant Pons",
+    "comunidad": "Cuencas Internas de Cataluña",
+    "capacidad_total": 24,
+    "capacidad_actual": 22,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "91.7%"
+  },
+  {
+    "nombre": "Boadella",
+    "comunidad": "Cuencas Internas de Cataluña",
+    "capacidad_total": 61,
+    "capacidad_actual": 43,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "70.5%"
+  },
+  {
+    "nombre": "Susqueda",
+    "comunidad": "Cuencas Internas de Cataluña",
+    "capacidad_total": 233,
+    "capacidad_actual": 157,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "67.4%"
+  },
+  {
+    "nombre": "Breña II, La",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 823,
+    "capacidad_actual": 316,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "38.4%"
+  },
+  {
+    "nombre": "Arenoso",
+    "comunidad": "Guadalquivir",
+    "capacidad_total": 167,
+    "capacidad_actual": 134,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "80.2%"
+  },
+  {
+    "nombre": "Sistema Aguas Limpias",
+    "comunidad": "Ebro",
+    "capacidad_total": 18,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "33.3%"
+  },
+  {
+    "nombre": "Sistema Alto Caldarés",
+    "comunidad": "Ebro",
+    "capacidad_total": 18,
+    "capacidad_actual": 4,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "22.2%"
+  },
+  {
+    "nombre": "Sistema Capdella",
+    "comunidad": "Ebro",
+    "capacidad_total": 50,
+    "capacidad_actual": 30,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "60.0%"
+  },
+  {
+    "nombre": "Sistema Valle de Arán",
+    "comunidad": "Ebro",
+    "capacidad_total": 22,
+    "capacidad_actual": 10,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "45.5%"
+  },
+  {
+    "nombre": "Alcollarín",
+    "comunidad": "Guadiana",
+    "capacidad_total": 52,
+    "capacidad_actual": 19,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "36.5%"
+  },
+  {
+    "nombre": "Búrdalo",
+    "comunidad": "Guadiana",
+    "capacidad_total": 79,
+    "capacidad_actual": 40,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "50.6%"
+  },
+  {
+    "nombre": "Villalba de los Barros",
+    "comunidad": "Guadiana",
+    "capacidad_total": 106,
+    "capacidad_actual": 94,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "88.7%"
+  },
+  {
+    "nombre": "Valdepatao",
+    "comunidad": "Ebro",
+    "capacidad_total": 6,
+    "capacidad_actual": 1,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "16.7%"
+  },
+  {
+    "nombre": "Terroba",
+    "comunidad": "Ebro",
+    "capacidad_total": 8,
+    "capacidad_actual": 1,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "12.5%"
+  },
+  {
+    "nombre": "San Salvador",
+    "comunidad": "Ebro",
+    "capacidad_total": 137,
+    "capacidad_actual": 111,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "81.0%"
+  },
+  {
+    "nombre": "Parras (Las)",
+    "comunidad": "Ebro",
+    "capacidad_total": 5,
+    "capacidad_actual": 3,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "60.0%"
+  },
+  {
+    "nombre": "Nagore",
+    "comunidad": "Ebro",
+    "capacidad_total": 5,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Montearagón",
+    "comunidad": "Ebro",
+    "capacidad_total": 52,
+    "capacidad_actual": 49,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "94.2%"
+  },
+  {
+    "nombre": "Lechago",
+    "comunidad": "Ebro",
+    "capacidad_total": 18,
+    "capacidad_actual": 13,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "72.2%"
+  },
+  {
+    "nombre": "Enciso",
+    "comunidad": "Ebro",
+    "capacidad_total": 46,
+    "capacidad_actual": 43,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "93.5%"
+  },
+  {
+    "nombre": "Cañón de Santolea",
+    "comunidad": "Ebro",
+    "capacidad_total": 82,
+    "capacidad_actual": 58,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "70.7%"
+  },
+  {
+    "nombre": "La Colada",
+    "comunidad": "Guadiana",
+    "capacidad_total": 58,
+    "capacidad_actual": 50,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "86.2%"
+  },
+  {
+    "nombre": "Irueña",
+    "comunidad": "Duero",
+    "capacidad_total": 110,
+    "capacidad_actual": 88,
+    "ultima_actualizacion": "13/5/2025",
+    "porcentaje": "80.0%"
+  },
+  {
+    "nombre": "Celemín",
+    "comunidad": "Guadalete-Barbate",
+    "capacidad_total": 45,
+    "capacidad_actual": 36,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "80.0%"
+  },
+  {
+    "nombre": "Arcos de la Frontera",
+    "comunidad": "Guadalete-Barbate",
+    "capacidad_total": 14,
+    "capacidad_actual": 14,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Barbate",
+    "comunidad": "Guadalete-Barbate",
+    "capacidad_total": 228,
+    "capacidad_actual": 123,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "53.9%"
+  },
+  {
+    "nombre": "Zahara-El Gastor",
+    "comunidad": "Guadalete-Barbate",
+    "capacidad_total": 223,
+    "capacidad_actual": 67,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "30.0%"
+  },
+  {
+    "nombre": "Bornos",
+    "comunidad": "Guadalete-Barbate",
+    "capacidad_total": 200,
+    "capacidad_actual": 163,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "81.5%"
+  },
+  {
+    "nombre": "Guadalcacín II",
+    "comunidad": "Guadalete-Barbate",
+    "capacidad_total": 800,
+    "capacidad_actual": 385,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "48.1%"
+  },
+  {
+    "nombre": "Hurones, Los",
+    "comunidad": "Guadalete-Barbate",
+    "capacidad_total": 135,
+    "capacidad_actual": 119,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "88.1%"
+  },
+  {
+    "nombre": "Almodóvar",
+    "comunidad": "Guadalete-Barbate",
+    "capacidad_total": 6,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "Portodemouros",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 297,
+    "capacidad_actual": 220,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "74.1%"
+  },
+  {
+    "nombre": "Villagudín",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 18,
+    "capacidad_actual": 17,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "94.4%"
+  },
+  {
+    "nombre": "Riocobo",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 6,
+    "capacidad_actual": 4,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "66.7%"
+  },
+  {
+    "nombre": "Sta Uxia",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 18,
+    "capacidad_actual": 16,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "88.9%"
+  },
+  {
+    "nombre": "Ribeira, A",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 33,
+    "capacidad_actual": 27,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "81.8%"
+  },
+  {
+    "nombre": "Eume",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 123,
+    "capacidad_actual": 116,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "94.3%"
+  },
+  {
+    "nombre": "Eiras",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 22,
+    "capacidad_actual": 22,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Fervenza",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 103,
+    "capacidad_actual": 98,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "95.1%"
+  },
+  {
+    "nombre": "Cecebre",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 22,
+    "capacidad_actual": 20,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "90.9%"
+  },
+  {
+    "nombre": "Forcadas, As",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 11,
+    "capacidad_actual": 10,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "90.9%"
+  },
+  {
+    "nombre": "Barrie de la Maza",
+    "comunidad": "Galicia Costa",
+    "capacidad_total": 31,
+    "capacidad_actual": 21,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "67.7%"
+  },
+  {
+    "nombre": "Corumbel Bajo",
+    "comunidad": "Tinto, Odiel y Piedras",
+    "capacidad_total": 19,
+    "capacidad_actual": 18,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "94.7%"
+  },
+  {
+    "nombre": "Los Machos",
+    "comunidad": "Tinto, Odiel y Piedras",
+    "capacidad_total": 12,
+    "capacidad_actual": 12,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Odiel",
+    "comunidad": "Tinto, Odiel y Piedras",
+    "capacidad_total": 8,
+    "capacidad_actual": 7,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "87.5%"
+  },
+  {
+    "nombre": "Olivargas",
+    "comunidad": "Tinto, Odiel y Piedras",
+    "capacidad_total": 29,
+    "capacidad_actual": 29,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Piedras",
+    "comunidad": "Tinto, Odiel y Piedras",
+    "capacidad_total": 60,
+    "capacidad_actual": 58,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "96.7%"
+  },
+  {
+    "nombre": "Sancho",
+    "comunidad": "Tinto, Odiel y Piedras",
+    "capacidad_total": 58,
+    "capacidad_actual": 48,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "82.8%"
+  },
+  {
+    "nombre": "Jarrama",
+    "comunidad": "Tinto, Odiel y Piedras",
+    "capacidad_total": 43,
+    "capacidad_actual": 39,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "90.7%"
+  },
+  {
+    "nombre": "Andévalo",
+    "comunidad": "Guadiana",
+    "capacidad_total": 634,
+    "capacidad_actual": 361,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "56.9%"
+  },
+  {
+    "nombre": "Gargáligas",
+    "comunidad": "Guadiana",
+    "capacidad_total": 21,
+    "capacidad_actual": 21,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Sierra Brava",
+    "comunidad": "Guadiana",
+    "capacidad_total": 233,
+    "capacidad_actual": 228,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "97.9%"
+  },
+  {
+    "nombre": "Cubilar",
+    "comunidad": "Guadiana",
+    "capacidad_total": 6,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "La Cabezuela",
+    "comunidad": "Guadiana",
+    "capacidad_total": 43,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "11.6%"
+  },
+  {
+    "nombre": "Vega del Jabalón",
+    "comunidad": "Guadiana",
+    "capacidad_total": 34,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "17.6%"
+  },
+  {
+    "nombre": "Orellana",
+    "comunidad": "Guadiana",
+    "capacidad_total": 808,
+    "capacidad_actual": 711,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "88.0%"
+  },
+  {
+    "nombre": "Cijara",
+    "comunidad": "Guadiana",
+    "capacidad_total": 1505,
+    "capacidad_actual": 1177,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "78.2%"
+  },
+  {
+    "nombre": "Alange",
+    "comunidad": "Guadiana",
+    "capacidad_total": 852,
+    "capacidad_actual": 296,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "34.7%"
+  },
+  {
+    "nombre": "La Serena",
+    "comunidad": "Guadiana",
+    "capacidad_total": 3219,
+    "capacidad_actual": 2076,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "64.5%"
+  },
+  {
+    "nombre": "Pto. Vallehermoso",
+    "comunidad": "Guadiana",
+    "capacidad_total": 7,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "85.7%"
+  },
+  {
+    "nombre": "Zújar",
+    "comunidad": "Guadiana",
+    "capacidad_total": 302,
+    "capacidad_actual": 239,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "79.1%"
+  },
+  {
+    "nombre": "Ruecas",
+    "comunidad": "Guadiana",
+    "capacidad_total": 42,
+    "capacidad_actual": 42,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Aguijón, El",
+    "comunidad": "Guadiana",
+    "capacidad_total": 11,
+    "capacidad_actual": 11,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Los Molinos",
+    "comunidad": "Guadiana",
+    "capacidad_total": 34,
+    "capacidad_actual": 34,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "García de Sola",
+    "comunidad": "Guadiana",
+    "capacidad_total": 554,
+    "capacidad_actual": 472,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "85.2%"
+  },
+  {
+    "nombre": "Torre de Abrahán",
+    "comunidad": "Guadiana",
+    "capacidad_total": 183,
+    "capacidad_actual": 165,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "90.2%"
+  },
+  {
+    "nombre": "Cornalbo",
+    "comunidad": "Guadiana",
+    "capacidad_total": 3,
+    "capacidad_actual": 2,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "66.7%"
+  },
+  {
+    "nombre": "Peñarroya",
+    "comunidad": "Guadiana",
+    "capacidad_total": 51,
+    "capacidad_actual": 28,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "54.9%"
+  },
+  {
+    "nombre": "Montijo",
+    "comunidad": "Guadiana",
+    "capacidad_total": 11,
+    "capacidad_actual": 11,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Cancho del Fresno",
+    "comunidad": "Guadiana",
+    "capacidad_total": 15,
+    "capacidad_actual": 15,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Nogales",
+    "comunidad": "Guadiana",
+    "capacidad_total": 18,
+    "capacidad_actual": 15,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "Gasset",
+    "comunidad": "Guadiana",
+    "capacidad_total": 39,
+    "capacidad_actual": 35,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "89.7%"
+  },
+  {
+    "nombre": "El Vicario",
+    "comunidad": "Guadiana",
+    "capacidad_total": 32,
+    "capacidad_actual": 24,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "75.0%"
+  },
+  {
+    "nombre": "Valuengo",
+    "comunidad": "Guadiana",
+    "capacidad_total": 20,
+    "capacidad_actual": 19,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "95.0%"
+  },
+  {
+    "nombre": "Canchales",
+    "comunidad": "Guadiana",
+    "capacidad_total": 26,
+    "capacidad_actual": 26,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Boquerón",
+    "comunidad": "Guadiana",
+    "capacidad_total": 6,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "Brovales",
+    "comunidad": "Guadiana",
+    "capacidad_total": 7,
+    "capacidad_actual": 7,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Chanza",
+    "comunidad": "Guadiana",
+    "capacidad_total": 338,
+    "capacidad_actual": 324,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "95.9%"
+  },
+  {
+    "nombre": "Horno Tejero",
+    "comunidad": "Guadiana",
+    "capacidad_total": 24,
+    "capacidad_actual": 24,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Llerena",
+    "comunidad": "Guadiana",
+    "capacidad_total": 8,
+    "capacidad_actual": 8,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Piedra Aguda",
+    "comunidad": "Guadiana",
+    "capacidad_total": 16,
+    "capacidad_actual": 16,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Proserpina",
+    "comunidad": "Guadiana",
+    "capacidad_total": 5,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Tentudia",
+    "comunidad": "Guadiana",
+    "capacidad_total": 5,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Villar del Rey",
+    "comunidad": "Guadiana",
+    "capacidad_total": 131,
+    "capacidad_actual": 123,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "93.9%"
+  },
+  {
+    "nombre": "Yesa",
+    "comunidad": "Ebro",
+    "capacidad_total": 447,
+    "capacidad_actual": 423,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "94.6%"
+  },
+  {
+    "nombre": "Laverné",
+    "comunidad": "Ebro",
+    "capacidad_total": 38,
+    "capacidad_actual": 36,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "94.7%"
+  },
+  {
+    "nombre": "Loteta (La)",
+    "comunidad": "Ebro",
+    "capacidad_total": 104,
+    "capacidad_actual": 104,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Las Fitas",
+    "comunidad": "Ebro",
+    "capacidad_total": 9,
+    "capacidad_actual": 8,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "88.9%"
+  },
+  {
+    "nombre": "Sallente",
+    "comunidad": "Ebro",
+    "capacidad_total": 6,
+    "capacidad_actual": 3,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "50.0%"
+  },
+  {
+    "nombre": "Caspe",
+    "comunidad": "Ebro",
+    "capacidad_total": 82,
+    "capacidad_actual": 63,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "76.8%"
+  },
+  {
+    "nombre": "Ribarroja",
+    "comunidad": "Ebro",
+    "capacidad_total": 210,
+    "capacidad_actual": 168,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "80.0%"
+  },
+  {
+    "nombre": "Grado, El",
+    "comunidad": "Ebro",
+    "capacidad_total": 400,
+    "capacidad_actual": 396,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "99.0%"
+  },
+  {
+    "nombre": "Maidevera",
+    "comunidad": "Ebro",
+    "capacidad_total": 20,
+    "capacidad_actual": 16,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "80.0%"
+  },
+  {
+    "nombre": "Pajares",
+    "comunidad": "Ebro",
+    "capacidad_total": 35,
+    "capacidad_actual": 35,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Mediano",
+    "comunidad": "Ebro",
+    "capacidad_total": 435,
+    "capacidad_actual": 425,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "97.7%"
+  },
+  {
+    "nombre": "Rialb",
+    "comunidad": "Ebro",
+    "capacidad_total": 404,
+    "capacidad_actual": 394,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "97.5%"
+  },
+  {
+    "nombre": "Mequinenza",
+    "comunidad": "Ebro",
+    "capacidad_total": 1373,
+    "capacidad_actual": 1318,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "96.0%"
+  },
+  {
+    "nombre": "Ip",
+    "comunidad": "Ebro",
+    "capacidad_total": 5,
+    "capacidad_actual": 3,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "60.0%"
+  },
+  {
+    "nombre": "Val, El",
+    "comunidad": "Ebro",
+    "capacidad_total": 24,
+    "capacidad_actual": 23,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "95.8%"
+  },
+  {
+    "nombre": "Santa Ana",
+    "comunidad": "Ebro",
+    "capacidad_total": 237,
+    "capacidad_actual": 189,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "79.7%"
+  },
+  {
+    "nombre": "González Lacasa",
+    "comunidad": "Ebro",
+    "capacidad_total": 33,
+    "capacidad_actual": 31,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "93.9%"
+  },
+  {
+    "nombre": "San Bartolomé",
+    "comunidad": "Ebro",
+    "capacidad_total": 6,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "Canelles",
+    "comunidad": "Ebro",
+    "capacidad_total": 679,
+    "capacidad_actual": 527,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "77.6%"
+  },
+  {
+    "nombre": "Cavallers",
+    "comunidad": "Ebro",
+    "capacidad_total": 16,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "37.5%"
+  },
+  {
+    "nombre": "Oliana",
+    "comunidad": "Ebro",
+    "capacidad_total": 84,
+    "capacidad_actual": 77,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "91.7%"
+  },
+  {
+    "nombre": "Sistema Escarra",
+    "comunidad": "Ebro",
+    "capacidad_total": 5,
+    "capacidad_actual": 1,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "20.0%"
+  },
+  {
+    "nombre": "Tremp ó Talárn",
+    "comunidad": "Ebro",
+    "capacidad_total": 227,
+    "capacidad_actual": 227,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Santolea",
+    "comunidad": "Ebro",
+    "capacidad_total": 5,
+    "capacidad_actual": 4,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "80.0%"
+  },
+  {
+    "nombre": "Escales",
+    "comunidad": "Ebro",
+    "capacidad_total": 152,
+    "capacidad_actual": 139,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "91.4%"
+  },
+  {
+    "nombre": "Mansilla",
+    "comunidad": "Ebro",
+    "capacidad_total": 68,
+    "capacidad_actual": 64,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "94.1%"
+  },
+  {
+    "nombre": "Calanda",
+    "comunidad": "Ebro",
+    "capacidad_total": 54,
+    "capacidad_actual": 45,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "Camarasa",
+    "comunidad": "Ebro",
+    "capacidad_total": 163,
+    "capacidad_actual": 140,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "85.9%"
+  },
+  {
+    "nombre": "Ebro",
+    "comunidad": "Ebro",
+    "capacidad_total": 541,
+    "capacidad_actual": 403,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "74.5%"
+  },
+  {
+    "nombre": "Tranquera, La",
+    "comunidad": "Ebro",
+    "capacidad_total": 82,
+    "capacidad_actual": 78,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "95.1%"
+  },
+  {
+    "nombre": "Búbal",
+    "comunidad": "Ebro",
+    "capacidad_total": 63,
+    "capacidad_actual": 55,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "87.3%"
+  },
+  {
+    "nombre": "Urdiceto",
+    "comunidad": "Ebro",
+    "capacidad_total": 5,
+    "capacidad_actual": 2,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "40.0%"
+  },
+  {
+    "nombre": "Alcañiz (Estanca)",
+    "comunidad": "Ebro",
+    "capacidad_total": 7,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "85.7%"
+  },
+  {
+    "nombre": "Cueva Foradada",
+    "comunidad": "Ebro",
+    "capacidad_total": 22,
+    "capacidad_actual": 19,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "86.4%"
+  },
+  {
+    "nombre": "Vadiello",
+    "comunidad": "Ebro",
+    "capacidad_total": 16,
+    "capacidad_actual": 15,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "93.8%"
+  },
+  {
+    "nombre": "Baserca",
+    "comunidad": "Ebro",
+    "capacidad_total": 22,
+    "capacidad_actual": 10,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "45.5%"
+  },
+  {
+    "nombre": "Terradets",
+    "comunidad": "Ebro",
+    "capacidad_total": 33,
+    "capacidad_actual": 33,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Lanuza",
+    "comunidad": "Ebro",
+    "capacidad_total": 17,
+    "capacidad_actual": 12,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "70.6%"
+  },
+  {
+    "nombre": "Peña, La",
+    "comunidad": "Ebro",
+    "capacidad_total": 15,
+    "capacidad_actual": 15,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Pena",
+    "comunidad": "Ebro",
+    "capacidad_total": 18,
+    "capacidad_actual": 16,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "88.9%"
+  },
+  {
+    "nombre": "Puente de Santolea",
+    "comunidad": "Ebro",
+    "capacidad_total": 18,
+    "capacidad_actual": 16,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "88.9%"
+  },
+  {
+    "nombre": "Moneva",
+    "comunidad": "Ebro",
+    "capacidad_total": 8,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "75.0%"
+  },
+  {
+    "nombre": "Barasona",
+    "comunidad": "Ebro",
+    "capacidad_total": 85,
+    "capacidad_actual": 84,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "98.8%"
+  },
+  {
+    "nombre": "Torcas, Las",
+    "comunidad": "Ebro",
+    "capacidad_total": 7,
+    "capacidad_actual": 6,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "85.7%"
+  },
+  {
+    "nombre": "Guiamets",
+    "comunidad": "Ebro",
+    "capacidad_total": 10,
+    "capacidad_actual": 2,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "20.0%"
+  },
+  {
+    "nombre": "Albiña",
+    "comunidad": "Ebro",
+    "capacidad_total": 5,
+    "capacidad_actual": 3,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "60.0%"
+  },
+  {
+    "nombre": "Alloz",
+    "comunidad": "Ebro",
+    "capacidad_total": 66,
+    "capacidad_actual": 58,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "87.9%"
+  },
+  {
+    "nombre": "Certescáns",
+    "comunidad": "Ebro",
+    "capacidad_total": 16,
+    "capacidad_actual": 14,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "87.5%"
+  },
+  {
+    "nombre": "Ciurana",
+    "comunidad": "Ebro",
+    "capacidad_total": 12,
+    "capacidad_actual": 3,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "25.0%"
+  },
+  {
+    "nombre": "Eúgui",
+    "comunidad": "Ebro",
+    "capacidad_total": 21,
+    "capacidad_actual": 18,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "85.7%"
+  },
+  {
+    "nombre": "Irabia",
+    "comunidad": "Ebro",
+    "capacidad_total": 14,
+    "capacidad_actual": 11,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "78.6%"
+  },
+  {
+    "nombre": "Llauset",
+    "comunidad": "Ebro",
+    "capacidad_total": 17,
+    "capacidad_actual": 15,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "88.2%"
+  },
+  {
+    "nombre": "Monteagudo",
+    "comunidad": "Ebro",
+    "capacidad_total": 10,
+    "capacidad_actual": 8,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "80.0%"
+  },
+  {
+    "nombre": "Sobrón",
+    "comunidad": "Ebro",
+    "capacidad_total": 20,
+    "capacidad_actual": 17,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "85.0%"
+  },
+  {
+    "nombre": "Sotonera",
+    "comunidad": "Ebro",
+    "capacidad_total": 189,
+    "capacidad_actual": 177,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "93.7%"
+  },
+  {
+    "nombre": "Santa María de Belsué",
+    "comunidad": "Ebro",
+    "capacidad_total": 14,
+    "capacidad_actual": 1,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "7.1%"
+  },
+  {
+    "nombre": "Ullivarri",
+    "comunidad": "Ebro",
+    "capacidad_total": 146,
+    "capacidad_actual": 132,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "90.4%"
+  },
+  {
+    "nombre": "Urrunaga",
+    "comunidad": "Ebro",
+    "capacidad_total": 72,
+    "capacidad_actual": 57,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "79.2%"
+  },
+  {
+    "nombre": "Itoiz",
+    "comunidad": "Ebro",
+    "capacidad_total": 417,
+    "capacidad_actual": 405,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "97.1%"
+  },
+  {
+    "nombre": "Urdalur",
+    "comunidad": "Ebro",
+    "capacidad_total": 6,
+    "capacidad_actual": 5,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "83.3%"
+  },
+  {
+    "nombre": "Sistema Lagos Espot",
+    "comunidad": "Ebro",
+    "capacidad_total": 10,
+    "capacidad_actual": 9,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "90.0%"
+  },
+  {
+    "nombre": "San Lorenzo",
+    "comunidad": "Ebro",
+    "capacidad_total": 10,
+    "capacidad_actual": 9,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "90.0%"
+  },
+  {
+    "nombre": "Ibai-Eder",
+    "comunidad": "Cuencas Internas del País Vasco",
+    "capacidad_total": 11,
+    "capacidad_actual": 11,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Urkulu",
+    "comunidad": "Cuencas Internas del País Vasco",
+    "capacidad_total": 10,
+    "capacidad_actual": 10,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "100.0%"
+  },
+  {
+    "nombre": "Compuerto",
+    "comunidad": "Duero",
+    "capacidad_total": 95,
+    "capacidad_actual": 93,
+    "ultima_actualizacion": "6/5/2025",
+    "porcentaje": "97.9%"
+  }
+]
